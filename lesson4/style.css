@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+
+body{
+    font-family: Roboto, arial, sans-serif;
+}
+h1{
+    font-size: 55px;
+    margin-bottom: 55px;
+}
+.secondBlock{
+    display: flex;
+    justify-content: space-between;
+    width: 1192px;
+}
+.first-p{
+    margin-top: 0px;
+}
+.third-block{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 81px;
+    width: 976px;
+    align-items: center;
+}
+.third-block image{
+    width: 232px;
+    height: 203px;
+} 
+.gg{
+    width: 232px;
+    height: 203px;
+}
+
+main{
+    margin-left: 124px;
+    margin-right: 124px;
+    width: 1192px;
+}
+
+.planning{
+    font-size: 25px;
+    width: 150px;
+    height: 39px;
+}
+.little-case{
+    font-size: 25px;
+}
+.first{
+    font-style: normal;
+font-weight: bold;
+font-size: 55px;
+line-height: 101.38%;
+}
+
+.text{
+    width: 661px;
+
+}
+.text p{
+    font-size: 24px;
+}
+
+.img1{
+    width: 314px;
+    height: 315px;
+}
+.img-first{
+    width: 314px;
+    height: 315px;
+}
+
+.img2{
+    width: 232px;
+    height: 203px;
+}
+
+h5{
+    font-size: 25px;
+    margin: 0px;
+}
+
+.planning p{
+    font-size: 18px;
+    margin: 0px;
+}
+.shadow{
+    background-color: gray;
+    border-radius: 50%;
+    position: relative;
+    z-index: -2;
+}
+.img1 .shadow{
+    width: 370px;
+    height: 100px;
+    bottom: 50px;
+}
+.img2 .shadow{
+    width: 220px;
+    height: 80px;
+    bottom: 50px;
+}
